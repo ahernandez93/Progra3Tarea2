@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1413413750 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/Tarea2/Evaluador.cpp
+	"Evaluador.h"
+
+1413410420 .h"
+
+1413413729 /home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/Tarea2/Evaluador.h
+	<iostream>
+	<stack>
+
+1431185518 
+
+1413413741 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/Tarea2/main.cpp
+	"Evaluador.h"
+	<iostream>
+
+1413410420 source:c:\users\allan\desktop\progra3tarea2-master\evaluador.cpp
+	"Evaluador.h"
+
+1413410420 c:\users\allan\desktop\progra3tarea2-master\evaluador.h
+	<iostream>
+	<stack>
+
+1413410420 source:c:\users\allan\desktop\progra3tarea2-master\main.cpp
+	"Evaluador.h"
+	<iostream>
+
+1431185538 source:h:\progra3tarea2\evaluador.cpp
+	"Evaluador.h"
+
+1413410420 h:\progra3tarea2\evaluador.h
+	<iostream>
+	<stack>
+
+1431185518 source:h:\progra3tarea2\main.cpp
+	"Evaluador.h"
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1413410420 source:e:\progra3tarea2\evaluador.cpp
+	"Evaluador.h"
+
+1413410420 e:\progra3tarea2\evaluador.h
+	<iostream>
+	<stack>
+
+1431101054 source:e:\progra3tarea2\main.cpp
+	"Evaluador.h"
+	<iostream>
+
+1431185538 source:/media/alumno/56F5-BF75/Progra3Tarea2/Evaluador.cpp
+	"Evaluador.h"
+
+1413410420 /media/alumno/56F5-BF75/Progra3Tarea2/Evaluador.h
+	<iostream>
+	<stack>
+
+1431200100 source:/media/alumno/56F5-BF75/Progra3Tarea2/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1431185538 source:/home/alumno/Escritorio/Progra3Tarea2/Evaluador.cpp
+	"Evaluador.h"
+
+1413410420 /home/alumno/Escritorio/Progra3Tarea2/Evaluador.h
+	<iostream>
+	<stack>
+
+1431204981 source:/home/alumno/Escritorio/Progra3Tarea2/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1431185538 source:c:\users\allan\desktop\progra3tarea2xx\evaluador.cpp
+	"Evaluador.h"
+
+1413410420 c:\users\allan\desktop\progra3tarea2xx\evaluador.h
+	<iostream>
+	<stack>
+
+1431204982 source:c:\users\allan\desktop\progra3tarea2xx\main.cpp
+	"Evaluador.h"
+	<iostream>
+	<string.h>
+	<stdio.h>
+
